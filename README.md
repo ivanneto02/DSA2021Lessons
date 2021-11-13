@@ -9,6 +9,9 @@
 ## How to upload a notebook
 
 1. Download the repository
+   - Click "Code" on the top right
+   - Click "Download ZIP"
+   - Extract that zipped file somewhere in your computer where you can get back to it!
 2. Find the lesson you are looking for (it is a `.ipynb`) file within one of the `DayX/` folders.
 3. Go to https://jupyter.org/try
    - Click on "Try JupyterLab"
