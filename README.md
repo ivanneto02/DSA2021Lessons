@@ -11,8 +11,8 @@
 1. Download the repository
    - Click "Code" on the top right
    - Click "Download ZIP"
-   - Extract that zipped file somewhere in your computer where you can get back to it!
-2. Find the lesson you are looking for (it is a `.ipynb`) file within one of the `DayX/` folders.
+   - Extract that zipped file somewhere in your computer where you can get back to it!\
+2. Find the lesson you are looking for (it is a `.ipynb` file) within one of the lesson folders in `lessons/`.
 3. Go to https://jupyter.org/try
    - Click on "Try JupyterLab"
 4. Find the `.ipynb` file notebook you are trying to upload
